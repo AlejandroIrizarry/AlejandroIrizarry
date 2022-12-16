@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
+ <head>
     <link rel="stylesheet" href="/styles.css">
   </head>
     <body>
@@ -24,5 +22,7 @@
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sqloracle" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windowsOS" width="40" height="40"/> </a> 
   <a href="hhttps://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> </p>
-    </body>
-</html>
+  
+```md
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejandroIrizarry&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)
+```
