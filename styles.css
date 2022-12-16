@@ -1,0 +1,68 @@
+/**
+ * Container
+ */ 
+
+ #skills-section {
+  text-align: center;
+ }
+
+#skills-section img {
+  width: 100px;
+  height: 100px;
+  padding-left: 0.5%;
+  padding-right:0.5%;
+  margin-bottom: 1.0%;
+  margin-top: 1.0%;
+}
+
+
+/**
+ * Animated Icons
+ */ 
+ #up {
+  animation: up-anim 3.5s infinite;
+ }
+
+ #down {
+  animation: down-anim 3.1s infinite;
+ }
+
+ #rand {
+  animation: rand-anim 2s infinite;
+ }
+
+ @keyframes up-anim {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-7px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+ }
+
+ @keyframes down-anim {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(7px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+ }
+
+ @keyframes rand-anim {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
