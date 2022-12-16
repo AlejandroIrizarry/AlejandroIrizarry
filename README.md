@@ -21,7 +21,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sqloracle" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windowsOS" width="40" height="40"/> </a> 
-  <a href="hhttps://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> </p>
+  <a href="https://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> </p>
  
  
  
