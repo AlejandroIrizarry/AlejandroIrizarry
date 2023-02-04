@@ -11,7 +11,7 @@
       <a href="https://www.instagram.com/alejandrocodes/" target="blank"><img align="center" src="https://www.svgrepo.com/show/217758/instagram.svg" alt="" height="30" width="40" /></a>
         <a href="http://alejandroirizarry.engineer" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
 </p>
-  <a href="https://www.reddit.com/user/Alejanoso">Click Here for more!</a>
+  <a href="https://linktr.ee/aleirizarry">Click Here for more!</a>
       <!-- Skills -->
       <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
