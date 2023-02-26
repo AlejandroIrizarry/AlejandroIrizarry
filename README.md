@@ -1,4 +1,4 @@
-  <head>
+ <head>
     <link rel="stylesheet" href="/styles.css">
   </head>
     <body>
@@ -33,3 +33,17 @@
   
   <p>Open to collaborate with other developers / <a href="mailto:alejandroirizarry@programmer.net">alejandroirizarry@programmer.net</a></p>
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
+  <hr>
+  
+  <h2><a href="https://alejandroirizarry.engineer/resume.html">👉 Resume</a></h2>
+  <p>I'm a Computer Science student @ University of Puerto Rico – Bayamon Campus <br/><i>Expected Grad: May, 2025</i> </p>
+  <br>
+  <p>
+    <b>Proud to be a:</b>
+  <ul>
+    <li>CodePath Student</li>
+    <li>ColorStack Member</li>
+    <li>Capital One – Early Experiencies Alumni</li>
+    <li>Association for Computing Machinery Member</li>
+  </ul>
+       
