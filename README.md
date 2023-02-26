@@ -30,3 +30,6 @@
  
  
  ![](https://komarev.com/ghpvc/?username=AlejandroIrizarry&color=grey)
+  
+  <p>Open to collaborate with other developers / <a href="mailto:alejandroirizarry@programmer.net">alejandroirizarry@programmer.net</a></p>
+  <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
