@@ -46,4 +46,7 @@
     <li>Capital One – Early Experiencies Alumni</li>
     <li>Association for Computing Machinery Member</li>
   </ul>
-       
+ <br>
+ <b>#BoricuaInTech 🇵🇷</b>
+ <b>#LatinxInTech</b>
+ 
