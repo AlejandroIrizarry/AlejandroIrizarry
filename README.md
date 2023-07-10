@@ -41,9 +41,11 @@
   <p>
     <b>Proud to be a:</b>
   <ul>
-    <li>CodePath Student</li>
+    <li>Salesforce: 2023 Futureforce Tech Launchpad - Software Engineer Intern</li>
+    <li>Google LSLS 2023 Technologist</li>
+    <li>CodePath Software Engineering Student</li>
     <li>ColorStack Member</li>
-    <li>Capital One – Early Experiencies Alumni</li>
+    <li>Capital One Early Experiencies Alumni</li>
     <li>Association for Computing Machinery Member</li>
   </ul>
  <br>
