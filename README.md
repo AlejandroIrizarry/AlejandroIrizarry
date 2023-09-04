@@ -35,7 +35,7 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2><a href="https://alejandroirizarry.engineer/resume.html">👉 Resume</a></h2>
+  <h2><a href="https://drive.google.com/file/d/10z7HDVHGQ0smG67pZRn54jnmEFh_DCaX/view?usp=sharing">👉 Resume</a></h2>
   <p>I'm a Computer Science student @ University of Puerto Rico – Bayamon Campus <br/><i>Expected Grad: May, 2025</i> </p>
   <br>
   <p>
