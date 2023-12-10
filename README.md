@@ -34,7 +34,7 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2>Visit my personal website for resume & details about me 👇</h2>
+  <h2>Visit my personal website for resume & info about me 👇</h2>
   
   [![Title](https://media.licdn.com/dms/image/D4E2DAQGKGvVD5hnlhA/profile-treasury-image-shrink_800_800/0/1702233423238?e=1702839600&v=beta&t=GrkZQPzUCoE4TCXAjyG06pNjsyeukWn0PD94wfI4vO0)](https://alejandroirizarry.engineer)
   
