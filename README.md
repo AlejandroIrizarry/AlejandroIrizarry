@@ -25,8 +25,7 @@
   <a href="https://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> </p>
  
  
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejandroIrizarry&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroIrizarry&theme=javascript-dark&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
  
  
  ![](https://komarev.com/ghpvc/?username=AlejandroIrizarry&color=grey)
@@ -35,7 +34,7 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2>Visit my personal website for resume and details about me 👇</h2>
+  <h2>Visit my personal website for resume & details about me 👇</h2>
   
   [![Title](https://media.licdn.com/dms/image/D4E2DAQGKGvVD5hnlhA/profile-treasury-image-shrink_800_800/0/1702233423238?e=1702839600&v=beta&t=GrkZQPzUCoE4TCXAjyG06pNjsyeukWn0PD94wfI4vO0)](https://alejandroirizarry.engineer)
   
