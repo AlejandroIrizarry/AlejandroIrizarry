@@ -35,19 +35,14 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2><a href="https://drive.google.com/file/d/10z7HDVHGQ0smG67pZRn54jnmEFh_DCaX/view?usp=sharing">👉 Resume</a></h2>
-  <p>I'm a Computer Science student @ University of Puerto Rico – Bayamon Campus <br/><i>Expected Grad: May, 2025</i> </p>
+  <h2>Visit my personal website for resume and details about me 👇</h2>
+  
+  [![Title](https://media.licdn.com/dms/image/D4E2DAQGKGvVD5hnlhA/profile-treasury-image-shrink_800_800/0/1702233423238?e=1702839600&v=beta&t=GrkZQPzUCoE4TCXAjyG06pNjsyeukWn0PD94wfI4vO0)](https://alejandroirizarry.engineer)
+  
+  <p>Computer Science @ University of Puerto Rico – Bayamon Campus <br/><i>Expected Grad: May 2025</i> </p>
   <br>
   <p>
-    <b>Proud to be a:</b>
-  <ul>
-    <li>Salesforce: 2023 Futureforce Tech Launchpad - Software Engineer Intern</li>
-    <li>Google LSLS 2023 Technologist</li>
-    <li>CodePath Software Engineering Student</li>
-    <li>ColorStack Member</li>
-    <li>Capital One Early Experiencies Alumni</li>
-    <li>Association for Computing Machinery Member</li>
-  </ul>
+    I've acquired experiences at Salesforce, Google, Bloomberg & more!
  <br>
  <b>#BoricuaInTech 🇵🇷</b>
  <b>#LatinxInTech</b>
