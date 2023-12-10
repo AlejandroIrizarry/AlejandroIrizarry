@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="/styles.css">
   </head>
     <body>
-      <header><img src="/heading.png"></header>
+      <header><img src="/Minimalist Banner.jpg"></header>
       <!-- Socials -->
       <h3 align="left">Connect with me on:</h3>
       <p align="left">
