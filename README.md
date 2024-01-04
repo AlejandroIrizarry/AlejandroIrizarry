@@ -36,7 +36,7 @@
   
   <h2>Visit my personal website for resume & info about me 👇</h2>
   
-  [![Title](https://media.licdn.com/dms/image/D4E2DAQGKGvVD5hnlhA/profile-treasury-image-shrink_800_800/0/1702233423238?e=1702839600&v=beta&t=GrkZQPzUCoE4TCXAjyG06pNjsyeukWn0PD94wfI4vO0)](https://alejandroirizarry.engineer)
+  [![Alejandro Irizarry Portfolio Site](https://media.licdn.com/dms/image/D4E2DAQH5i_3uah4Vyw/profile-treasury-image-shrink_800_800/0/1702787172244?e=1704952800&v=beta&t=0PDVHi1H3LIAYRen4Im9pzV_7Fkjk-AmptH3AXwZXbI)](https://AlejandroIrizarry.github.io)
   
   <p>Computer Science @ University of Puerto Rico – Bayamon Campus <br/><i>Expected Grad: May 2025</i> </p>
   <br>
