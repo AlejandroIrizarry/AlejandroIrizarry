@@ -9,7 +9,7 @@
       <a href="https://twitter.com/aleirizarryn" target="_blank"><img align="center" src="https://www.svgrepo.com/show/80427/twitter.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.linkedin.com/in/alejandroirizarry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299484/linkedin.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.instagram.com/alejandrocodes/" target="blank"><img align="center" src="https://www.svgrepo.com/show/217758/instagram.svg" alt="" height="30" width="40" /></a>
-        <a href="http://alejandroirizarry.engineer" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
+        <a href="https://alejandroirizarry.github.io" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
 </p>
   <a href="https://linktr.ee/aleirizarry" target="_blank">Click Here for more!</a>
       <!-- Skills -->
