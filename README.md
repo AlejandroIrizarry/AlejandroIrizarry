@@ -15,8 +15,8 @@
       <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
    <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
