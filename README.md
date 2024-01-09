@@ -13,7 +13,7 @@
 </p>
   <a href="https://linktr.ee/aleirizarry" target="_blank">Click Here for more</a>
       <!-- Skills -->
-      <h3 align="left">Languages and Tools:</h3>
+      <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="40" height="40"/> </a> 
