@@ -14,15 +14,16 @@
       <!-- Skills -->
       <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sqloracle" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windowsOS" width="40" height="40"/> </a> 
-  <a href="https://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> 
-  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
+
 </p>
  
  
