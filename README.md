@@ -22,7 +22,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sqloracle" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windowsOS" width="40" height="40"/> </a> 
-  <a href="https://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> </p>
+  <a href="https://www.apple.com/lae/macos/ventura/" target="_blank"> <img src="https://www.svgrepo.com/show/40974/apple.svg" alt="macOS" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
+</p>
  
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroIrizarry&theme=javascript-dark&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
