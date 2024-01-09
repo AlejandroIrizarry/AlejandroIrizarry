@@ -35,7 +35,7 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2>Visit my personal site for more 👇</h2>
+  <h2>Want to learn more? Click below.</h2>
   
   [![Alejandro Irizarry Portfolio Site](https://media.licdn.com/dms/image/D4E2DAQF_WSD20PrsTw/profile-treasury-image-shrink_800_800/0/1704570273161?e=1705176000&v=beta&t=ygTlStx04q3UjG-X4N3U5QjkMMinsZeoyv2KzG6lcqE)](https://AlejandroIrizarry.github.io)
  
