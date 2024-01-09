@@ -9,7 +9,7 @@
       <a href="https://twitter.com/aleirizarryn" target="_blank"><img align="center" src="https://www.svgrepo.com/show/80427/twitter.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.linkedin.com/in/alejandroirizarry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299484/linkedin.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.instagram.com/alejandrocodes/" target="blank"><img align="center" src="https://www.svgrepo.com/show/217758/instagram.svg" alt="" height="30" width="40" /></a>
-        <a href="https://alejandroirizarry.github.io" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
+        <a href="https://aleirizarry.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
 </p>
       <!-- Skills -->
       <h3 align="left">Tools:</h3>
@@ -38,5 +38,5 @@
   
   <h2>Want to learn more? Click below.</h2>
   
-  [![Alejandro Irizarry Portfolio Site](https://media.licdn.com/dms/image/D4E2DAQF_WSD20PrsTw/profile-treasury-image-shrink_800_800/0/1704570273161?e=1705176000&v=beta&t=ygTlStx04q3UjG-X4N3U5QjkMMinsZeoyv2KzG6lcqE)](https://AlejandroIrizarry.github.io)
+  [![Alejandro Irizarry Portfolio Site](https://media.licdn.com/dms/image/D4E2DAQF_WSD20PrsTw/profile-treasury-image-shrink_800_800/0/1704570273161?e=1705176000&v=beta&t=ygTlStx04q3UjG-X4N3U5QjkMMinsZeoyv2KzG6lcqE)](https://aleirizarry.com)
  
