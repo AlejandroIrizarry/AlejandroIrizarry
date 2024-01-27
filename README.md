@@ -37,5 +37,5 @@
   
   <h2>Want to learn more? Click below :)</h2>
   
-  <a href="https://aleirizarry.com" target="_blank"><img src="site.png"/></a>
+  <a href="https://aleirizarry.com" target="_blank"><img src="site-1.png"/></a>
  
