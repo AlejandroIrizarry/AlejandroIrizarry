@@ -35,7 +35,7 @@
   <p>For professional opportunities or other inquiries / <a href="mailto:alejandroirizarry@mail.com">alejandroirizarry@mail.com</a></p>
   <hr>
   
-  <h2>Want to learn more? Click below :)</h2>
+  <h2>Want to learn more? Click below</h2>
   
   <a href="https://aleirizarry.com" target="_blank"><img src="site-1.png"/></a>
  
