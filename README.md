@@ -12,7 +12,7 @@
         <a href="https://aleirizarry.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
 </p>
       <!-- Skills/Tools -->
-      <h3 align="left">Software tools:</h3>
+      <h3 align="left">Software:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
