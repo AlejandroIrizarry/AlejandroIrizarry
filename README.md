@@ -4,7 +4,7 @@
     <body>
       <header><img src="/Minimalist Banner-4.png"></header>
       <!-- Socials -->
-      <h3 align="left">Let's connect:</h3>
+      <h3 align="left">Let's connect 🙌:</h3>
       <p align="left">
       <a href="https://twitter.com/aleirizarryn" target="_blank"><img align="center" src="https://www.svgrepo.com/show/80427/twitter.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.linkedin.com/in/alejandroirizarry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299484/linkedin.svg" alt="" height="30" width="40" /></a>
