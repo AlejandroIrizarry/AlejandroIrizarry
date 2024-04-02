@@ -25,7 +25,7 @@
 
 </p>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroIrizarry&theme=apprentice&border_radius=40&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroIrizarry&theme=shadow-green&border_radius=40&mode=weekly)](https://git.io/streak-stats)
  
  
  ![](https://komarev.com/ghpvc/?username=AlejandroIrizarry&color=grey)
