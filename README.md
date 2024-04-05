@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="/styles.css">
   </head>
     <body>
-      <header><img src="/Minimalist Banner-4.png"></header>
+ <header><img src="/Minimalist Banner-4.png"></header>
       <!-- Socials -->
       <h3 align="left">Let's connect 🙌:</h3>
       <p align="left">
@@ -26,6 +26,8 @@
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sqloracle" width="40" height="40"/> </a> 
 
 </p>
+
+<img src="https://uprbcommunity-app.s3.amazonaws.com/users/alejandro/profile/avatar"/>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroIrizarry&theme=dayfox&border_radius=40&mode=weekly)](https://git.io/streak-stats)
  
