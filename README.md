@@ -7,7 +7,7 @@
       
 <img width="50%" src="https://i.pinimg.com/originals/89/d6/b1/89d6b11e88ccb6b57a0b61931c8e7d64.gif">
       </div>
- <header><img src="/Minimalist Banner-4.png"></header>
+ <header></header>
       <!-- Socials -->
       <h3 align="left">Let's connect 🙌:<img height="30" width="40" src="https://31.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif"/></h3>
       <p align="left">
