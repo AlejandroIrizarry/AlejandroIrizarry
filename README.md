@@ -15,7 +15,7 @@ $${\color{green}Alejandro \space \color{green}Irizarry's \space \color{pink}Gith
 
  <div align="center">
       <!-- Socials -->
-      <h3>Let's connect 🙌:<img height="30" width="40" src="https://31.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif"/></h3>
+      <h3>Let's connect<img height="30" width="40" src="https://31.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif"/></h3>
       <a href="https://www.linkedin.com/in/alejandroirizarry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299484/linkedin.svg" alt="" height="30" width="40" /></a>
       <a href="https://www.instagram.com/alejandrocodes/" target="blank"><img align="center" src="https://www.svgrepo.com/show/217758/instagram.svg" alt="" height="30" width="40" /></a>
         <a href="https://aleirizarry.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
