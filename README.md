@@ -11,7 +11,7 @@
         <a href="https://aleirizarry.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/294232/html-website.svg" alt="" height="30" width="40" /></a>
 </p>
     
-![](https://github-stats-alpha.vercel.app/api?username=AlejandroIrizarry&cc=f0eae3&tc=566553&ic=566553&bc=566553)
+![](https://github-stats-alpha.vercel.app/api?username=AlejandroIrizarry)
       <!-- Skills/Tools -->
       <h3 align="left">Software 💻:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
