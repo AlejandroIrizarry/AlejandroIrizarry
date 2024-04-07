@@ -30,7 +30,7 @@ $${\color{green}Alejandro \space \color{green}Irizarry's \space \color{pink}Gith
 
   </div>
  </div>
- <h3 align="center">Software</h3>
+ <h3 align="center">Tech Stack</h3>
 <div align="center"><a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/249774/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
